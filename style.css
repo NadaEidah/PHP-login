@@ -1,0 +1,14 @@
+
+
+.newcss{
+    position: absolute;
+    bottom: 0; width: 100%;
+    
+}
+#indexS{
+    text-align: center;
+     margin-top:50px; 
+     height:200px; 
+     width:200px; 
+     background-color:red;
+}
